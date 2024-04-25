@@ -1,0 +1,14 @@
+/Users/dervinaltenor/RiderProjects/FileSorter/FileSorter/obj/Debug/net8.0/FileSorter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dervinaltenor/RiderProjects/FileSorter/FileSorter/obj/Debug/net8.0/FileSorter.AssemblyInfoInputs.cache
+/Users/dervinaltenor/RiderProjects/FileSorter/FileSorter/obj/Debug/net8.0/FileSorter.AssemblyInfo.cs
+/Users/dervinaltenor/RiderProjects/FileSorter/FileSorter/obj/Debug/net8.0/FileSorter.csproj.CoreCompileInputs.cache
+/Users/dervinaltenor/RiderProjects/FileSorter/FileSorter/bin/Debug/net8.0/FileSorter
+/Users/dervinaltenor/RiderProjects/FileSorter/FileSorter/bin/Debug/net8.0/FileSorter.deps.json
+/Users/dervinaltenor/RiderProjects/FileSorter/FileSorter/bin/Debug/net8.0/FileSorter.runtimeconfig.json
+/Users/dervinaltenor/RiderProjects/FileSorter/FileSorter/bin/Debug/net8.0/FileSorter.dll
+/Users/dervinaltenor/RiderProjects/FileSorter/FileSorter/bin/Debug/net8.0/FileSorter.pdb
+/Users/dervinaltenor/RiderProjects/FileSorter/FileSorter/obj/Debug/net8.0/FileSorter.dll
+/Users/dervinaltenor/RiderProjects/FileSorter/FileSorter/obj/Debug/net8.0/refint/FileSorter.dll
+/Users/dervinaltenor/RiderProjects/FileSorter/FileSorter/obj/Debug/net8.0/FileSorter.pdb
+/Users/dervinaltenor/RiderProjects/FileSorter/FileSorter/obj/Debug/net8.0/FileSorter.genruntimeconfig.cache
+/Users/dervinaltenor/RiderProjects/FileSorter/FileSorter/obj/Debug/net8.0/ref/FileSorter.dll
